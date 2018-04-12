@@ -1,0 +1,71 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select,span{margin:0;padding:0} 
+body{font:12px"Microsoft YaHei","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%;} 
+a{color:#2d374b;text-decoration:none} 
+a:hover{color:#cd0200;text-decoration:underline} 
+em{font-style:normal} 
+li{list-style:none} 
+img{border:0;vertical-align:middle} 
+table{border-collapse:collapse;border-spacing:0} 
+p{word-wrap:break-word} 
+
+.partition{
+	width: 100%;
+	height:1.4rem;
+	background:#f2f2f2;
+}
+#text{
+	position: relative;
+	width: 90%;
+	left: 5%;
+	height:68rem;
+	background:url(../images/gerenzhengxing.png);
+	background-size:100%;
+}
+.menu{
+	margin-top: 1rem;
+	width:100%;
+	height:3rem;
+	text-align: center;
+}
+.menu i{
+	font-style: normal;
+	color:#333333;
+	font-size:1.5rem;
+	font-weight: bold;
+}
+.menu strong{
+	font-size: 1.2rem;
+	color:#ee5847;
+	line-height: 2.6rem;
+
+}
+#text ul{
+	margin-top:0.2rem;
+}
+#text li{ 
+	text-indent:2.1rem;
+	font-size:1.2rem;
+	line-height:2.7rem;
+ }
+ #text a{
+ 	display: block;
+ 	margin-left: 1.4rem;
+ 	color: #666666;
+ 	font-size: 1.1rem;
+ }
+ #text p{
+ 	font-size: 1.2rem;
+	line-height: 2rem;
+ }
+  #text span{
+ 	color: #666666;
+ 	font-size: 1.1rem;
+  }
+
+
+
+
+
+
+
+
